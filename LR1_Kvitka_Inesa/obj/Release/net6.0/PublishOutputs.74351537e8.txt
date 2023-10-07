@@ -1,0 +1,7 @@
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\LR1_Kvitka_Inesa.exe
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\LR1_Kvitka_Inesa.dll
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\LR1_Kvitka_Inesa.deps.json
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\LR1_Kvitka_Inesa.runtimeconfig.json
+C:\Users\Inessa\source\repos\LR1_Kvitka_Inesa\LR1_Kvitka_Inesa\obj\Release\net6.0\PubTmp\Out\LR1_Kvitka_Inesa.pdb
